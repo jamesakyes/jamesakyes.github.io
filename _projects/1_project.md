@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: ME 201 Crane Project
+description: Designed a crave to lift a load, traverse a distance, and lower it.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: school
 related_publications: true
 ---
 
