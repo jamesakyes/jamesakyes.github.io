@@ -1,67 +1,7 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: James A. Kyes
 first_name: James
-middle_name: A.
 last_name: Kyes
-Personal_Email: Jamesakyes@gmail.com
-School_Email: jkyes@wisc.edu
-linkedin_username: james-kyes-6546bb361
-github_username: jamesakyes
-contact_note: "Feel free to reach out via email or LinkedIn!"
-description: "Junior in Mechanical Engineering at the University of Wisconsin Madison."
-footer_text: "Powered by Jekyll and al-folio."
-keywords: mechanical engineering, uw-madison, portfolio
-lang: en
-icon: ⚛️
-
+description: "Mechanical Engineering Student at UW-Madison"
 url: "https://jamesakyes.github.io"
 baseurl: ""
-last_updated: true
-back_to_top: true
-
-# -----------------------------------------------------------------------------
-# Theme
-# -----------------------------------------------------------------------------
-
-repo_theme_light: default
-repo_theme_dark: dark
-repo_trophies:
-  enabled: true
-  theme_light: flat
-  theme_dark: gitdimmed
-
-external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
-
-# -----------------------------------------------------------------------------
-# Layout
-# -----------------------------------------------------------------------------
-
-navbar_fixed: true
-footer_fixed: true
-footer_social: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
-max_width: 930px
-
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-lsi: false
-
-pagination:
-  enabled: true
-
-related_blog_posts:
-  enabled: true
-  max_related: 5
+remote_theme: alshedivat/al-folio
