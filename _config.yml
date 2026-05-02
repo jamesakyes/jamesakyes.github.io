@@ -2,32 +2,28 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: James
 middle_name: A.
 last_name: Kyes
 Personal_Email: Jamesakyes@gmail.com
 School_Email: jkyes@wisc.edu
-linkedin_username: www.linkedin.com/in/james-kyes-6546bb361
+linkedin_username: james-kyes-6546bb361
 github_username: jamesakyes
-contact_note: > Feel free to reach out with email or LinkedIn with any questions!
-  You can even add a little note about which of these is the best way to reach you.
-description: > Junior in Mechanical Engineering at the University of Wisconsin Madison. # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+contact_note: >
+  Feel free to reach out via email or LinkedIn with any questions!
+description: >
+  Junior in Mechanical Engineering at the University of Wisconsin Madison.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+keywords: mechanical engineering, uw-madison, portfolio
+lang: en
+icon: ⚛️
 
-url: https://jamesakyes.github.io # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
-
+url: https://jamesakyes.github.io
+baseurl: ""
+last_updated: false
+back_to_top: true
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
